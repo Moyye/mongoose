@@ -115,7 +115,6 @@
     "url": "git://github.com/Automattic/mongoose.git"
   },
   "homepage": "https://mongoosejs.com",
-  "browser": "./dist/browser.umd.js",
   "mocha": {
     "extension": [
       "test.js"
